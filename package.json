@@ -3,6 +3,7 @@
     "author": "Jake",
     "description": "A simple node app for learning node!",
     "keywords": ["learning", "node", "test", "fun", "freecodecamp"],
+    "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
